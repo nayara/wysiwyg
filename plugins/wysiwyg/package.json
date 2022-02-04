@@ -1,0 +1,27 @@
+{
+  "name": "wysiwyg",
+  "version": "0.0.0",
+  "description": "Plugin to build rich text component",
+  "strapi": {
+    "name": "wysiwyg",
+    "description": "Plugin to build rich text component",
+    "kind": "plugin"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^32.0.0",
+    "@ckeditor/ckeditor5-react": "^3.0.3"
+  },
+  "author": {
+    "name": "Hub Team"
+  },
+  "maintainers": [
+    {
+      "name": "Hub Team"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x. <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
